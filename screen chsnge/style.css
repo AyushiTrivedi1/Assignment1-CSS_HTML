@@ -1,0 +1,16 @@
+.container{
+  
+  justify-content:center;
+  align-items:center; 
+}
+.screen{
+    width: 400px;
+    height: 400px;
+    background-color: blue; 
+    margin-bottom: 20px;
+}
+
+.button {
+  height:20px;
+  width:100px;
+}

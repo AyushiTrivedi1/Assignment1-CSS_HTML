@@ -1,0 +1,41 @@
+.container {
+  position: relative;
+  height: 300px;
+  width: 300px;
+}
+
+.box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 300px;
+  width: 300px;
+  background-color: green;
+}
+
+.box2 {
+  position: absolute;
+  top: 50px; 
+  left: 50px; 
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.box3 {
+  position: absolute;
+  top: 50px;
+  left: 50px; 
+  height: 100px;
+  width: 100px;
+  background-color: blue; 
+}
+
+.box4 {
+  position: absolute;
+  top: 25px; 
+  left: 25px; 
+  height: 50px;
+  width: 50px;
+  background-color: yellow;  
+}
